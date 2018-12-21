@@ -4,3 +4,6 @@
 [submodule "Restructure"]
 	path = Restructure
 	url = https://github.com/LucianaMarques/Restructure
+[submodule "Layout"]
+	path = Layout
+	url = https://github.com/LucianaMarques/Layout
