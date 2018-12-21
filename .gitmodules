@@ -1,0 +1,3 @@
+[submodule "ViewSwitcher"]
+	path = ViewSwitcher
+	url = https://github.com/LucianaMarques/ViewSwitcher
