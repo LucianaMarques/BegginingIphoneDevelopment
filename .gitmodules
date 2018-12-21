@@ -13,3 +13,6 @@
 [submodule "ControlFun"]
 	path = ControlFun
 	url = https://github.com/LucianaMarques/ControlFun
+[submodule "ButtonFun_app"]
+	path = ButtonFun_app
+	url = https://github.com/LucianaMarques/ButtonFun_app
