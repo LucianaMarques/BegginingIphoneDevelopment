@@ -10,3 +10,6 @@
 [submodule "Orientations"]
 	path = Orientations
 	url = https://github.com/LucianaMarques/Orientations
+[submodule "ControlFun"]
+	path = ControlFun
+	url = https://github.com/LucianaMarques/ControlFun
