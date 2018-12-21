@@ -7,3 +7,6 @@
 [submodule "Layout"]
 	path = Layout
 	url = https://github.com/LucianaMarques/Layout
+[submodule "Orientations"]
+	path = Orientations
+	url = https://github.com/LucianaMarques/Orientations
