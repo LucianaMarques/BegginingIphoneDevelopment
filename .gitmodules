@@ -16,3 +16,6 @@
 [submodule "ButtonFun_app"]
 	path = ButtonFun_app
 	url = https://github.com/LucianaMarques/ButtonFun_app
+[submodule "helloworld_swift"]
+	path = helloworld_swift
+	url = https://github.com/LucianaMarques/helloworld_swift
