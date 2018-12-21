@@ -1,3 +1,6 @@
 [submodule "ViewSwitcher"]
 	path = ViewSwitcher
 	url = https://github.com/LucianaMarques/ViewSwitcher
+[submodule "Restructure"]
+	path = Restructure
+	url = https://github.com/LucianaMarques/Restructure
